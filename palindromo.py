@@ -1,3 +1,5 @@
+#verifica si una palabra es un palindromo
+
 while True:
     try:
         dim = int(input("Dimensiones: "))

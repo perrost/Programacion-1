@@ -1,3 +1,5 @@
+#calcula del dinero sobrante de una compra
+
 precio = int(input("Ingrese el precio del artículo: "))
 pagado = int(input("Ingrese el importe pagado: "))
 

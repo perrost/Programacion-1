@@ -1,4 +1,4 @@
-
+# Verifica si el numero ingresado es primo
 
 import math
 
