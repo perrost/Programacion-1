@@ -16,3 +16,6 @@ Comprueba si una palabra o frase se lee igual al derecho y al reves.
 
 ### Triangulo
 saca el area de un triangulo
+
+### Número perfecto
+Determina si un número es igual a la suma de sus divisores propios.
